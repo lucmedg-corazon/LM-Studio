@@ -5,6 +5,9 @@
 Single-file interior design website for **LM Studio by Lucie Medgenberg**.
 Deployed on Vercel. All code lives in `index.html`.
 
+**Live reference site: [lmstudio.design](https://lmstudio.design)**
+Use this as the canonical reference for design decisions, content, and tone. New work should match or improve on what is live there.
+
 ---
 
 ## Design System

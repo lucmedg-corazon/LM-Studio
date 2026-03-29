@@ -6,6 +6,8 @@ Personal website for **LM Studio**, an interior design practice by **Lucie Medge
 
 The site presents the studio's work, services, and contact details. It is intentionally minimal — one HTML file, no framework, no CMS.
 
+**Live site:** [lmstudio.design](https://lmstudio.design) — the canonical reference for design, content, and tone. New work should match or improve on what is live there.
+
 ---
 
 ## Goals
